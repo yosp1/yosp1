@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yosp1, newbie to codeing and all things code related.
+- 👋 Hi, I’m @yosp1, newbie to coding and all things code related.
 - 👀 I’m interested in learning blockchain development, especially Ethereum based blockchain, and web development (HTML, CSS and JavaScript)
 - 🌱 I’m currently learning HTML, CSS and Javascript for web development, as a part of #100daysofcodeing, and Solidity language.
 - 💞️ I’m looking to collaborate on Blockchain projects, especially Music and Art based projects, Voice User Interface projects( Amazon Alexa, Google Assistant), 
